@@ -1,4 +1,4 @@
-Access game here: https://vanillajschess.github.io/
+Access game here: https://kaloodinaz.github.io/chessonline/
 
 This is a chess engine/algorithm made only with vanilla JS, CSS, HTML. 
 
